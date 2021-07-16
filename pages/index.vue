@@ -1,7 +1,16 @@
 <template>
+<div>
+  nice
   <Tutorial/>
+  </div>
 </template>
 
 <script>
-export default {}
+export default {
+  data() {
+    return {
+          key: 'test'
+    }
+  },
+}
 </script>
