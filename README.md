@@ -1,6 +1,6 @@
 # eslint-prettier-test3
 
-test
+test2
 ## Build Setup
 
 ```bash
